@@ -21,4 +21,4 @@ I'm **Awan Syahputra**, currently learning **Laravel, Vue.js, TailwindCSS** and 
 ---
 
 ### 📫 Contact
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [awansyahputra065@gmail.com](mailto:your-email@example.com)
